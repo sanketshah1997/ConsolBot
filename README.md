@@ -1,2 +1,2 @@
 # ConsolBot
-ConsoleBot for convertion between speech and text. Used inbuilt AIML files. Developed in c#.
+ConsoleBot, Convert speech to text and text to speech. Used inbuilt AIML files. Developed in c#.
